@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/luyj/git/ansible/vars'
+let g:netrw_dirhist_2='/home/luyj/git/ansible/roles/slremote-local'
+let g:netrw_dirhist_3='/home/luyj/git/ansible/roles/slremote-local/tasks'
+let g:netrw_dirhist_4='/home/luyj/git/scadaToWeb/src/html/release'
+let g:netrw_dirhist_5='/home/luyj/git/scadaToWeb/src/html/node_modules/axiba'
+let g:netrw_dirhist_6='/home/luyj/git/scadaToWeb/src/html/node_modules/axiba/src'
+let g:netrw_dirhist_7='/home/luyj/test/entertainment/PacVim/src'
+let g:netrw_dirhist_8='/home/luyj'
